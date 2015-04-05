@@ -1,0 +1,16 @@
+﻿Build started 05/04/2015 3:30:22 PM.
+     1>Project "C:\Users\100428864\Desktop\University Stuff\Year 4\Semester 2\Software & Computer Security SOFE 4849U\Project\Visual Studio Project\SecurityProjectDemo\vc2013\SecurityProjectDemo.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /I..\..\..\cinder_0.8.6_vc2013\include /I..\..\..\cinder_0.8.6_vc2013\boost /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D NOMINMAX /D _WIN32_WINNT=0x0502 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\SecurityProjectDemoApp.cpp
+         SecurityProjectDemoApp.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /I..\..\..\cinder_0.8.6_vc2013\include /I..\include /nologo /fo"Debug\Resources.res" Resources.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\100428864\Desktop\University Stuff\Year 4\Semester 2\Software & Computer Security SOFE 4849U\Project\Visual Studio Project\SecurityProjectDemo\vc2013\Debug\SecurityProjectDemo.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\cinder_0.8.6_vc2013\lib\msw\x86 "cinder-v120_d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCMT /NODEFAULTLIB:LIBCPMT /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\100428864\Desktop\University Stuff\Year 4\Semester 2\Software & Computer Security SOFE 4849U\Project\Visual Studio Project\SecurityProjectDemo\vc2013\Debug\SecurityProjectDemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\100428864\Desktop\University Stuff\Year 4\Semester 2\Software & Computer Security SOFE 4849U\Project\Visual Studio Project\SecurityProjectDemo\vc2013\Debug\SecurityProjectDemo.lib" /MACHINE:X86 Debug\Resources.res
+         Debug\SecurityProjectDemoApp.obj
+         SecurityProjectDemo.vcxproj -> C:\Users\100428864\Desktop\University Stuff\Year 4\Semester 2\Software & Computer Security SOFE 4849U\Project\Visual Studio Project\SecurityProjectDemo\vc2013\Debug\SecurityProjectDemo.exe
+     1>Done Building Project "C:\Users\100428864\Desktop\University Stuff\Year 4\Semester 2\Software & Computer Security SOFE 4849U\Project\Visual Studio Project\SecurityProjectDemo\vc2013\SecurityProjectDemo.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:43.12

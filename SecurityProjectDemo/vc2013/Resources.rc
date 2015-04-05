@@ -1,0 +1,5 @@
+#include "../include/Resources.h"
+
+1	ICON	"..\\resources\\Security_Project_Demo_app_icon.ico"
+
+RES_SUPPORTEDGESTURES_IMAGE
