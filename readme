@@ -1,0 +1,24 @@
+Macro Virus
+	Above named folder contains the macro virus as an pdf file which is linked to hidden .exe file with in the same folder. 
+	The virus can be triggered by double clicking the pdf file. 
+	Once the virus has started, every single mouse movenment, mouse down or keyboard input is make will keep opening infected windows
+		Note: The virus can be terminated using shift + c,
+		      The virus can be paused useing shift + p,
+		      The virus can be started up again using shift + s
+
+		      Theses keystroks are there to allow for ternimating the virus since this is only for demo purpose and not for actuall distrubution.
+
+Macro Virus Detection
+	Above named folder contains virus detection logs from F-Secure and what the virus is classified as by F-Secure.
+	The detectable virus was not uploaded because it will just get removed when the zip is downloaded. Which may actually delete the whole zip also.
+
+SecurityProjectDemo
+	Above named folder contains the full Visual Studio project, therefore the virus can be recompiled from here. 
+	Please note that to recompile the Open Source libary Cinder needs to be downloaded and placed at the same directory level as this directory. 
+
+	To open project following the following steps:
+		1. Go into Visual Studio Project\SecurityProjectDemo\vc2013
+		2. Double click on SecurityProjectDemo.sln
+		3. This will open up the project in Visual Studio
+		4. Change Solution Configureation to Release mode to build the virus as a releases to view the detection from F-Secure
+		5. or change the Solution Configuration to Debug mode to build the virus and actually execute and use it.

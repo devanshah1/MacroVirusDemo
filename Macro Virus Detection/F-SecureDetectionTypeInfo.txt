@@ -1,0 +1,8 @@
+F-Secure Detects the Virus as gen.variant.kazy.[####] Where [####] can be any number.
+	Gen:Variant.Kazy.569583 is a virus detected by Microsoft Windows and several Antivirus or Anti-Malware software vendors. This Gen:Variant.Kazy.569583 threat is classified as PUP a Potentially Unwanted Program or PUA a Potentially Unwanted Programs because it inflicts and acts as a malicious threat or virus into your Windows computer system.
+
+	Reference Links:
+		https://www.f-secure.com/v-descs/other_w32_generic.shtml
+		https://www.f-secure.com/v-descs/rogue_w32_systemtool.shtml
+
+	Please Refer to file F-SecureDetectionReport.html for detailed report on the what F-Secure detected.
